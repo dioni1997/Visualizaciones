@@ -1,0 +1,24 @@
+# Dashboard de Visualizaciones sobre la tasa de suicidio (1985-2015)
+
+He realizado 3 visualizaciones que se muestran en un Dashboard de Data Studio dónde se muestran varios análisis sobre los suicidios a nivel mundial y en España durante
+la línea temporal de 1985 hasta 2015. 
+
+El juego de datos ha sido extraído de Kaggle que se puede ver en el siguiente enlace: https://www.kaggle.com/datasets/rushirdx/suicide-rates-from-1986-to-2016?select=suicide.csv
+
+Con respecto al análisis de los datos y modificaciones de los mismo ha sido realizado con Excel ya que tán solo he realizado un filtrado por el país España 
+para realizar una visualización concreta. 
+
+En el juego de datos podemos ver varios atributos como pueden ser el número de suicidios total por año, generación, rango por edad, sexo, país, año, PIB per cápita o
+PIB anual, entre otros.
+
+Las 3 visualizaciones son las siguientes:
+
++ Tasa de suicidio total por país y por rango de edad (1985-2015)
+
++ Tasa total de suicidio respecto al PIB per cápita por país (1985-2015)
+
++ Tasa de suicidio en España por rango de edad (1985-2015)
+
+Se puede acceder al Dashboard publicamente a través del siguiente enlace:
+
+https://datastudio.google.com/s/qSUJnXa0e2M
