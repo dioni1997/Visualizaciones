@@ -2,6 +2,7 @@
 # A9: Creación de la visualización y entrega del proyecto (Práctica II)
 
 + Nombre: Dionisio González Jiménez
++ Master: Ciencia de datos - UOC
 + Asignatura: Visualización de datos
 
 + Visualizaciones:
